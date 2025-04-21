@@ -1,5 +1,5 @@
 # Matlab4Ltspice
-Analysis and Plot .raw files from LTspice by MATLAB
+Analysis and Plot .raw files from LTspice DPT Test by MATLAB
 `Author :PNJIE`
 `DATE: 2025/04/21`
 `V0.0`
