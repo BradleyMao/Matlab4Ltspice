@@ -1,4 +1,4 @@
-# Matlab4Ltspice
+![gif1](https://github.com/user-attachments/assets/10fc2780-bfbc-4c72-8931-8a8aaa70f314)# Matlab4Ltspice
 Analysis and Plot .raw files from LTspice DPT Test by MATLAB
 `Author :PNJIE`
 `DATE: 2025/04/21`
@@ -43,6 +43,7 @@ Download all the .m files and see main: try main to see how each function uses:
 ## Function Preview
 
 ### MATLAB APP
+![gif1](https://github.com/user-attachments/assets/b6b73d4c-c391-4929-a08a-af941358ac8f)
 
 ### .M Function
 ![动画2](https://github.com/user-attachments/assets/5f2955af-6bce-4bd9-89b1-4ee8c9d0c537)
@@ -67,6 +68,7 @@ Download all the .m files and see main: try main to see how each function uses:
 ## Matlab脚本 下载所有.m文件并查看main函数：尝试main函数以查看每个函数的使用方法： 
 ![image](https://github.com/user-attachments/assets/56c3185e-9a9b-44cd-ba09-df450fe19f3b)
 ### MATLAB APP
-![[动画.gif]] 
+![gif1](https://github.com/user-attachments/assets/b6b73d4c-c391-4929-a08a-af941358ac8f)
+
 ### .M函数 
 ![动画2](https://github.com/user-attachments/assets/5f2955af-6bce-4bd9-89b1-4ee8c9d0c537)
