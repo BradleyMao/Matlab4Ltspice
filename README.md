@@ -33,7 +33,7 @@ The bolded content should not be modified, and the digits should equal to the ex
 ## MATAPP:
 Download RawPlot.mlappinstall and install the matlab app, The function explaination is :
 ![image](https://github.com/user-attachments/assets/629651e0-86a4-4631-a378-8c8940bbd50a)
-
+![image2](https://image.pnjie.top/blogs/learning/basic%20learning/DPT%20script/MATAPPDPT.gif)
 
 ## Matlab script
 Download all the .m files and see main: try main to see how each function uses:
